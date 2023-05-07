@@ -2,7 +2,7 @@
 
 ## Overview : 
 
-Quora is a platform where people can ask and answer questions, with around **100 Million** monthly visitors. Many people ask similar questions, which can be time-consuming for followers to answer repeatedly. To solve this, I worked on a project to predict whether two questions are duplicates or not. I started with basic models like **XGBoost** and **Random Forest** and gradually improved their accuracy. Additionally, I trained the data using an **LSTM** model and NLP TRnasformers like **BERT** , **ROBERTa**. This system could potentially help improve efficiency on Quora by detecting duplicate questions. 
+Quora is a platform where people can ask and answer questions, with around **100 Million** monthly visitors. Many people ask similar questions, which can be time-consuming for followers to answer repeatedly. To solve this, I worked on a project to predict whether two questions are duplicates or not. I started with basic models like **XGBoost** and **Random Forest** and gradually improved their accuracy. Additionally, I trained the data using an **LSTM** model and NLP Transformers like **BERT** , **ROBERTa**. This system could potentially help improve efficiency on Quora by detecting duplicate questions. 
 
 
 ## The Dataset : 
