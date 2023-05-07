@@ -36,7 +36,7 @@ Quora is a platform where people can ask and answer questions, with around **100
   - We can observe that sentences which have common words are similar to each other .i.e features who have more word share probability  are similar to each other 
 <img src="https://user-images.githubusercontent.com/103372852/236662629-db2a75bb-a83a-40f4-a6bf-ab0aa2037652.png" alt="description of image" width="50%" height="30%">
  
- - I have trained **Random Forest** and **XGBOOST** on this basic features  and used ** Bag of Words** , I gotFollowing  results : 
+ - I have trained **Random Forest** and **XGBOOST** on this basic features  and used **Bag of Words** , I gotFollowing  results : 
  
 | Model         | Accuracy   | ROC-AUC | F1-Score | 
 | ----           | ------     | ------  |--------- |
