@@ -1,4 +1,4 @@
-# duplicate_question_checker_NLP
+# Duplicate Question Checker Application
 
 ## Overview : 
 
@@ -100,10 +100,33 @@ Quora is a platform where people can ask and answer questions, with around **100
 - Results of **BERT** and **ROBERTa** 
 
 
-| Model          | Accuracy    | ROC-AUC | F1-Score | 
-| ----           | ------      | ------  |--------- |
-| BERT           | 74.03 %      | 7.47 %   |  63.65 %    |
-| ROBERTa        | 76.16 %   | 74.41 %  |   67.66 %     |
+| Model          | Accuracy | train loss | 
+| ----           | ------  | --------------|
+| BERT           | 90 %      | 0.1196
+| ROBERTa        | 90 %   | 0.20 | 
+
+- **BERT** and **ROBERTa** are performing very well on data with accurcay around 90 %
+
+
+### 5. How to use this project for  checking duplicate questions  : 
+
+- clone this repo : `$ git clone https://github.com/Vinayakmane47/duplicate_question_checker_NLP.git`
+- create new environment : `$ conda create -n qachecker python=3.7 -y`
+- install requirements : `pip install -r requirements.txt` 
+- run app.py : `python app.py`
+
+### 6. Results : 
+
+![image](https://user-images.githubusercontent.com/103372852/236672512-23baf525-d152-4bb4-a142-2e3ce55864e3.png)
+
+### 7. Application URL : 
+
+[Question Similarity Checker](https://huggingface.co/spaces/VinayakMane47/Check_duplicate_questions)
+
+
+
+
+
 
 
 
