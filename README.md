@@ -1,4 +1,4 @@
-# Duplicate Question Checker Application
+# Duplicate Question Checker 
 
 ## Overview : 
 
