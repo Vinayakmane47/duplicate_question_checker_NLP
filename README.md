@@ -66,7 +66,7 @@ Quora is a platform where people can ask and answer questions, with around **100
 - token_sort_ratio: token_sort_ratio from fuzzywuzzy
 - token_set_ratio: token_set_ratio from fuzzywuzzy
 
-- With  Some More advanced Features i got following results with **Bag Of Words**
+- With  Some More advanced Features i got following results with **Bag_Of_Words**
 
 | Model         | Accuracy   | ROC-AUC | F1-Score | 
 | ----           | ------     | ------  |--------- |
